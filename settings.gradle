@@ -1,0 +1,2 @@
+rootProject.name='Mapy'
+include ':app'

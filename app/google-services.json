@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419485595725",
+    "firebase_url": "https://obrozafinal.firebaseio.com",
+    "project_id": "obrozafinal",
+    "storage_bucket": "obrozafinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419485595725:android:d610b5ac5523ee33dd8404",
+        "android_client_info": {
+          "package_name": "com.example.mapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419485595725-4loptqgbsoqnucvveigkhijhbih37plj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZG9HzGWlnWnpHy-NgqeEnqL5gQavES9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419485595725-4loptqgbsoqnucvveigkhijhbih37plj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
