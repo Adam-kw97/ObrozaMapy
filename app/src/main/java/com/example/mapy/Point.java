@@ -31,6 +31,7 @@ public class Point {
         x=a;
         y=b;
     }
+
     public Point(){
 
     }
